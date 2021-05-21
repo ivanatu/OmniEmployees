@@ -29,7 +29,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    `npm install`
 
 ### Run App
-  1. Start the app by opening Visual studio or command line and navigating to the folder where your work is
+  1. Git  checkout develop branch first
+  2. Start the app by opening Visual studio or command line and navigating to the folder where your work is
    `npm start`
 
 ### Run tests
