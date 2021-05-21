@@ -22,9 +22,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   1. Make directory to where you want you application will be stored e.g
    `mkdir Myapp`
   2. Clone the repo using gitclone
-   `git clone https://github.com/ivanatu/ReactJS-Storing-Patient-Information.git`
+   `git clone https://github.com/ivanatu/OmniEmployees.git`
   3. Navigate to the clone directory.
-   `cd ReactJS-Storing-Patient-Information`
+   `cd OmniEmployees`
   4. Install required packages
    `npm install`
 
@@ -39,7 +39,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    `npm test -- --coverage`
 
 
-  ### My proposal
+## My proposal
 
 ## What problem are you trying to solve?
 Am trying to create and web application in React that allows clients to add employees from different countries . This app
