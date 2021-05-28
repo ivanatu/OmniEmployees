@@ -25,7 +25,7 @@ class Login extends Component {
         const firstname = (event.target.firstname !== undefined) ? event.target.firstname.value : ""
         const lastname = (event.target.lastname !== undefined) ? event.target.lastname.value : ""
         const dateOfBirth = (event.target.dateOfBirth !== undefined) ? event.target.dateOfBirth.value : ""
-        const status = (event.target.status.value !== undefined) ? event.target.status.value : ""
+        const status = (event.target.status !== undefined) ? event.target.status.value : ""
         const socialInsurance = (event.target.socialInsurance !== undefined) ? event.target.socialInsurance.value : ""
         const noChildren = (event.target.noChildren !== undefined) ? event.target.noChildren.value : ""
         const workingHours = (event.target.workingHours !== undefined) ? event.target.workingHours.value : ""
